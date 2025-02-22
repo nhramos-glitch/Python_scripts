@@ -1,12 +1,12 @@
 
 import os
-import google.auth
-from google.oauth2.credentials import Credentials
-from googleapiclient.discovery import build
-from googleapiclient.errors import HttpError
-from googleapiclient.http import MediaFileUpload
-from google_auth_oauthlib.flow import InstalledAppFlow
-from google.auth.transport.requests import Request
+#import google.auth
+#from google.oauth2.credentials import Credentials
+#from googleapiclient.discovery import build
+#from googleapiclient.errors import HttpError
+#from googleapiclient.http import MediaFileUpload
+#from google_auth_oauthlib.flow import InstalledAppFlow
+#from google.auth.transport.requests import Request
 
 # ! Specify the ID of the folder to upload files to (from the URL of the Drive folder)
 folder_id = ''
